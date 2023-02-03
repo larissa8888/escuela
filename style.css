@@ -21,7 +21,7 @@ img{
     text-align:center;
 }
 h1{
-  
+  color: white;
   font-size:18px;
 }
 p{
@@ -104,4 +104,11 @@ h3 {
 }
 .achievements  {
   color:orange;
+}
+h4 {
+  color: white;
+}
+h5 {
+  color: white;
+  font-size: 30px;
 }
